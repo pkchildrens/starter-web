@@ -15,3 +15,7 @@ This is a simple website project for git and github. slkdfjldskf
 This is a sentence about Deployment.
 
 ## How to Contribute
+
+## Copyright
+
+Something about copyright
