@@ -21,3 +21,4 @@ Fork this repo
 ## Copyright
 
 Something about copyright
+all rights reserved
