@@ -16,6 +16,8 @@ This is a sentence about Deployment.
 
 ## How to Contribute
 
+Fork this repo
+
 ## Copyright
 
 Something about copyright
