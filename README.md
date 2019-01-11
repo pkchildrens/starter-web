@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for git and github. adding a line
+This is a simple website project for git and github. adding a line, then more changes from myfeature branch too
 
 ## Introduction
 
